@@ -1,0 +1,99 @@
+{
+  "id": "traveller-2ed-piratas-de-drinax-es",
+  "title": "Los piratas de Drinax [ES]",
+  "description": "Los piratas de Drinax",
+  "version": "1.2.1",
+  "authors": [
+    {
+      "name": "sharcashmo"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "label": "Los piratas de Drinax",
+      "name": "piratas-drinax",
+      "type": "JournalEntry",
+      "system": "twodsix",
+      "path": "packs/piratas-drinax"
+    },
+    {
+      "label": "Compendio drinaxiano",
+      "name": "compendio-drinaxiano",
+      "type": "JournalEntry",
+      "system": "twodsix",
+      "path": "packs/compendio-drinaxiano"
+    },
+    {
+      "label": "El Brazo Troyano",
+      "name": "brazo-troyano",
+      "type": "JournalEntry",
+      "system": "twodsix",
+      "path": "packs/brazo-troyano"
+    },
+    {
+      "label": "Naves de El Brazo",
+      "name": "naves-brazo",
+      "type": "JournalEntry",
+      "system": "twodsix",
+      "path": "packs/naves-brazo"
+    },
+    {
+      "label": "Sombras de Sindal",
+      "name": "sombras-sindal",
+      "type": "JournalEntry",
+      "system": "twodsix",
+      "path": "packs/sombras-sindal"
+    },
+    {
+      "label": "Los piratas de Drinax",
+      "name": "los-piratas-de-drinax",
+      "type": "Adventure",
+      "system": "twodsix",
+      "path": "packs/los-piratas-de-drinax"
+    },
+    {
+      "label": "Tablas",
+      "name": "tablas",
+      "type": "RollTable",
+      "system": "twodsix",
+      "path": "packs/tablas"
+    },
+    {
+      "label": "Naves",
+      "name": "naves",
+      "type": "Actor",
+      "system": "twodsix",
+      "path": "packs/naves"
+    },
+    {
+      "label": "Equipo",
+      "name": "equipo",
+      "type": "Item",
+      "system": "twodsix",
+      "path": "packs/equipo"
+    },
+    {
+      "label": "Habilidades aslan",
+      "name": "habilidades",
+      "type": "Item",
+      "system": "twodsix",
+      "path": "packs/habilidades"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/sharcashmo/traveller-2ed-piratas-de-drinax-es/master/module.json",
+  "license": "https://raw.githubusercontent.com/sharcashmo/traveller-2ed-piratas-de-drinax-es/master/LICENSE",
+  "readme": "https://raw.githubusercontent.com/sharcashmo/traveller-2ed-piratas-de-drinax-es/master/README.md",
+  "download": "https://github.com/sharcashmo/traveller-2ed-piratas-de-drinax-es/archive/V1.2.1.zip",
+  "relationships": {
+    "requires": [
+      {
+        "id": "traveller-2ed-es",
+        "type": "module"
+      }
+    ]
+  }
+}

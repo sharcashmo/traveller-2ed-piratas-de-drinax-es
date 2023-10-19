@@ -37,7 +37,7 @@ Versión 1.2.1 :
     * [X] Carguero chatarrero, Piquete de flota, Corsario, Nave de reparación, Nave de apoyo para patrulleras, Crucero (Reina Elizabeth)
     * [X] Portanaves de escolta, Escolta (clase Ritchey), Megacarguero (clase Gitantón), Crucero pesado (clase Planeta)
     * [ ] Mercante subsidiado (tipo-RQ)
-  * [X] *Manual nava: aslan*
+  * [X] *Manual naval: aslan*
   * [ ] *Naves aslan*
     * [X] Exploradora (clase Ihateisho), Mensajero (clase Ktiyhui), Mensajero (clase Iyeliy), Carguero (clase Eakhau)
     * [X] Nave de apoyo logístico (clase Owatarl), Escolta (clase Ekawsiykua), Crucero (clase Aositaoh)
